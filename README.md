@@ -2,7 +2,7 @@
 
 I'm just an economics guy who's always had a soft spot for tech.
 
-It all started back in the day—modding Minecraft, scripting GTA servers, tweaking CS configs, and making WoW add-ons. I spent some time dabbling in web dev, and these days I mostly tinker with whatever feels interesting.
+It all started back in the day modding Minecraft, scripting GTA servers, tweaking CS configs, and making WoW add-ons. I spent some time dabbling in web dev, and these days I mostly tinker with whatever feels interesting.
 
 No big goals, just building what I enjoy and picking up cool stuff along the way.
 
