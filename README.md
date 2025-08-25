@@ -6,6 +6,8 @@ It all started back in the day modding Minecraft, scripting GTA servers, tweakin
 
 No big goals, just building what I enjoy and picking up cool stuff along the way.
 
+My website: [alexandereriksson.se](https://alexandereriksson.se).
+
 ---
 
 ### 📄 Recent Work
@@ -18,7 +20,6 @@ Published via **DIW Berlin, SOEPpapers** 📊
 ---
 
 ### 🌐 Socials
-
 [![Twitter](https://img.shields.io/badge/Twitter-@erby__alex-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/erby_alex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Eriksson%20Byström-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-eriksson-bystrom/)
 [![Instagram](https://img.shields.io/badge/Instagram-@alexanderer__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alexanderer_/)
